@@ -1,0 +1,12 @@
+D:\Documents\PruebaTecnica\WebApiRest\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Documents\PruebaTecnica\WebApiRest\DataAccess\bin\Debug\DataAccess.dll
+D:\Documents\PruebaTecnica\WebApiRest\DataAccess\bin\Debug\DataAccess.pdb
+D:\Documents\PruebaTecnica\WebApiRest\DataAccess\bin\Debug\EntityFramework.dll
+D:\Documents\PruebaTecnica\WebApiRest\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\PruebaTecnica\WebApiRest\DataAccess\bin\Debug\EntityFramework.xml
+D:\Documents\PruebaTecnica\WebApiRest\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\PruebaTecnica\WebApiRest\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Documents\PruebaTecnica\WebApiRest\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Documents\PruebaTecnica\WebApiRest\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\Documents\PruebaTecnica\WebApiRest\DataAccess\obj\Debug\DataAccess.dll
+D:\Documents\PruebaTecnica\WebApiRest\DataAccess\obj\Debug\DataAccess.pdb
